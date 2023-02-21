@@ -1,0 +1,12 @@
+body{
+    background-size:cover;
+}
+canvas{
+    background-color: azure;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px palegreen;
+}
+.heading{
+    width:100%;
+}
